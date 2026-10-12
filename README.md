@@ -13,7 +13,7 @@ Work experience for October 12-16th October 2026.
 Stuff you will learn about:
 
 * Using the command line:
-  * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
+  * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `which`
   * On Windows can get `bash` using `git bash` part of the `git` install or can install the Windows Subsytem for Linux in the Powershell:
     ```powershell
     # To see what distributions are available
@@ -57,7 +57,7 @@ Software that will be needed ( you do NOT have to preinstall these pieces of sof
 ## Timetable
 
 Assume a one hour break for lunch.
-ACF tour pencilled in for Tuesday at the moment.
+ACF tour on Tuesday.
 
 |       | Morning (9:30 - 12:00) | Afternoon (13:00 - 15:30) |
 | ----- | ---------------------- | ------------------------- |
