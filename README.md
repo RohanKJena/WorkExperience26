@@ -13,7 +13,7 @@ Work experience for October 12-16th October 2026.
 Stuff you will learn about:
 
 * Using the command line:
-  * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `rmdir`, `which`
+  * `ls`, `pwd`, `cd`, `rm`, `mkdir`, `which`
   * On Windows can get `bash` using `git bash` part of the `git` install or can install the Windows Subsytem for Linux in the Powershell:
     ```powershell
     # To see what distributions are available
