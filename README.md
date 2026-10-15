@@ -42,6 +42,9 @@ Stuff you will learn about:
     . .myenv/bin/activate
     ```
   * Jupyter notebooks
+    '''bash
+     py -3.13 -m venv .jupyterenv
+     '''
   * AI assists
   * Software Carpentry [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/) or [Plotting and Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
